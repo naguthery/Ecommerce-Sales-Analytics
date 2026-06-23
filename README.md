@@ -80,6 +80,9 @@ A Tableau dashboard was created to provide an interactive view of:
 - Revenue by Month
 - Revenue by Payment Method
 
+## Dashboard Preview
+![Sales Performance Dashboard](images/sales_performance_dashboard.png)
+
 ## Key Findings
 - Electronics is the strongest-performing product category.
 - Fashion and Home & Living generated lower revenue than other categories.
