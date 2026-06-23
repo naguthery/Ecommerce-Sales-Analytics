@@ -94,8 +94,6 @@ A Tableau dashboard was created to provide an interactive view of:
 ## Repositry Structure
 Ecommerce-Sales-Analytics/  
 │  
-├── README.md  
-│  
 ├── dashboard/  
 │   ├── README.md  
 │   ├── clean_synthetic_online_retail_data.csv  
@@ -127,11 +125,13 @@ Ecommerce-Sales-Analytics/
 │   └── revenue_by_payment_method.png  
 │  
 └── reports/  
-    ├── README.md  
-    ├── Sales Performance Analytics Report.pdf  
-    └── Sales Performance Case Study.pdf  
-    └── Sales Performance Data Cleaning Report.pdf  
-    
+│   ├── README.md  
+│   ├── Sales Performance Analytics Report.pdf 
+│   ├── Sales Performance Analytics Case Study.pdf   
+│   └── Sales Performance Data Cleaning Report.pdf  
+│ 
+├── README.md  
+
 ## Skills Demonstrated
 - Data Cleaning
 - Data Transformation
