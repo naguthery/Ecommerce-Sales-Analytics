@@ -92,32 +92,32 @@ A Tableau dashboard was created to provide an interactive view of:
 - Cash on Delivery was the most commonly used payment method.
 
 ## Repositry Structure
-Ecommerce-Sales-Analytics/
+Ecommerce-Sales-Analytics/  
+│  
+├── README.md  
+│  
+├── dashboard/  
+│   ├── README.md  
+│   ├── clean_synthetic_online_retail_data.csv  
+│   └── messy_synthetic_online_retail_data.csv  
 │
-├── README.md
+├── excel/  
+│   ├── README.md  
+│   └── pivot_synthetic_online_retail_data.xlsx  
 │
-├── dashboard/
-│   ├── README.md
-│   ├── clean_synthetic_online_retail_data.csv
-│   └── messy_synthetic_online_retail_data.csv
-│
-├── excel/
-│   ├── README.md
-│   └── pivot_synthetic_online_retail_data.xlsx
-│
-├── images/
-│   ├── README.md
-│   ├── revenue_by_age.png
-│   ├── revenue_by_category.png
-│   ├── revenue_by_month.png
-│   ├── revenue_by_age_group.png
-│   ├── revenue_by_month.png
-│   ├── revenue_by_payment_method.png
-│   ├── sales_performance_dashboard.png
-│   ├── top_cities.png
-│   └── top_products.png
-│
-├── images/
+├── images/  
+│   ├── README.md  
+│   ├── revenue_by_age.png  
+│   ├── revenue_by_category.png  
+│   ├── revenue_by_month.png  
+│   ├── revenue_by_age_group.png  
+│   ├── revenue_by_month.png  
+│   ├── revenue_by_payment_method.png  
+│   ├── sales_performance_dashboard.png  
+│   ├── top_cities.png  
+│   └── top_products.png  
+│  
+├── images/  
 │   ├── dashboard_overview.png
 │   ├── revenue_by_category.png
 │   ├── top_5_products.png
