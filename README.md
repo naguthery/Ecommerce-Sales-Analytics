@@ -3,7 +3,7 @@
 ## Author 
 Nicholas Guthery  
 Business Data Analytics Student  
-W.P. Carey School of Bsuiness, Arizona State University 
+W.P. Carey School of Business, Arizona State University 
 
 ## Project Overview
 This project analyzed e-commerce sales data to identify factors influencing revenue generation and customer purchasing behavior. Microsoft Excel was used for data cleaning, KPI calculations, and PivotTable analysis, while Tableau was used to develop an interactive dashboard.
