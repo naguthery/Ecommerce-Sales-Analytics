@@ -118,19 +118,19 @@ Ecommerce-Sales-Analytics/
 │   └── top_products.png  
 │  
 ├── images/  
-│   ├── dashboard_overview.png
-│   ├── revenue_by_category.png
-│   ├── top_5_products.png
-│   ├── top_5_cities.png
-│   ├── revenue_by_age_group.png
-│   ├── revenue_by_month.png
-│   └── revenue_by_payment_method.png
-│
-└── reports/
-    ├── README.md
-    ├── Sales Performance Analytics Report.pdf
-    └── Sales Performance Case Study.pdf
-    └── Sales Performance Data Cleaning Report.pdf
+│   ├── dashboard_overview.png  
+│   ├── revenue_by_category.png  
+│   ├── top_5_products.png  
+│   ├── top_5_cities.png  
+│   ├── revenue_by_age_group.png  
+│   ├── revenue_by_month.png  
+│   └── revenue_by_payment_method.png  
+│  
+└── reports/  
+    ├── README.md  
+    ├── Sales Performance Analytics Report.pdf  
+    └── Sales Performance Case Study.pdf  
+    └── Sales Performance Data Cleaning Report.pdf  
     
 ## Skills Demonstrated
 - Data Cleaning
