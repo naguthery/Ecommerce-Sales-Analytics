@@ -92,7 +92,7 @@ A Tableau dashboard was created to provide an interactive view of:
 - Cash on Delivery was the most commonly used payment method.
 
 ## Repositry Structure
-Ecommerce-Sales-Analytics/  
+ecommerce-sales-analytics/  
 │  
 ├── dashboard/  
 │   ├── README.md  
